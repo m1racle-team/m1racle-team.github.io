@@ -9,5 +9,5 @@ $(document).ready(function() {
 hljs.initHighlightingOnLoad();
 
 function alert_will(){
-    alert("敬请期待!");
+    alert("后端服务器暂不可用");
 }
